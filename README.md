@@ -11,8 +11,6 @@ Tools & Technologies: Git, Relational Databases, SQL, HTML, CSS, jQuery
 
 Strengthening my data structures and algorithms knowledge
 
-Practicing coding problems on LeetCode
-
 Building small web-based tools and games to apply what I learn
 
 📂 Highlighted Projects
@@ -22,11 +20,7 @@ Wordle Clone
 
 Escape Room
  – My C# escape room build using Viusal Studio
-
-Mini Utilities
- – Simple web tools built with JavaScript and jQuery
  
-
 📫 Connect
 
 📧 ryancallion@aol.com

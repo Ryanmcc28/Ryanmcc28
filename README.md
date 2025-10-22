@@ -28,7 +28,7 @@
 
 ## 📈 GitHub Stats  
 
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryanmcc28&show_icons=true&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ryanmcc28&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanmcc28&layout=compact&theme=tokyonight&hide_border=true)
 
 ---

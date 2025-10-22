@@ -21,8 +21,8 @@
 
 ## 📂 Highlighted Projects  
 
-- **[Wordle Clone](https://github.com/ryanmccallion/Wordle-Clone)** – Browser game with hints, difficulty levels, and local stats  
-- **[Escape Room](https://github.com/ryanmccallion/Escape-Room)** – C# escape room game built using Visual Studio  
+- **[Wordle Clone](https://github.com/ryanmccallion/Wordle_Clone)** – Browser game with hints, difficulty levels, and local stats  
+- **[Escape Room](https://github.com/ryanmccallion/C#_Escape-Room)** – C# escape room game built using Visual Studio  
 
 ---
 

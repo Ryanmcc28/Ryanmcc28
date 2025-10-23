@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ryan McCallion  
 
 🌍 Based in **Belfast, Northern Ireland**  
-🎓 **Software Engineering Student** passionate about building practical projects and improving problem-solving skills.  
+🎓 **Software Engineering Student** passionate about building practical projects and improving my problem-solving skills.  
 
 ---
 
@@ -14,6 +14,7 @@
 
 ## 🧠 What I’m Working On  
 
+- Turn-based battle game in Java (console)
 - Strengthening my **data structures and algorithms** knowledge  
 - Building **small web-based tools and games** to apply what I learn  
 

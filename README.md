@@ -14,7 +14,7 @@
 
 ## 🧠 What I’m Working On  
 
-- Turn-based battle game in Java (console)
+- **Turn-based battle game** in Java (console)
 - Strengthening my **data structures and algorithms** knowledge  
 - Building **small web-based tools and games** to apply what I learn  
 
